@@ -1,0 +1,19 @@
+.errorBlock {
+  height: 800px;
+  width: 1500px;
+  margin: auto;
+  background-color: #fff;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.span {
+  display: inline-block;
+  width: 400px;
+  margin-top: 300px;
+}
+
+p {
+  font-size: 30px;
+  color: red;
+}
